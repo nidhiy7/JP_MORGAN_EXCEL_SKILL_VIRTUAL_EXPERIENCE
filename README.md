@@ -11,3 +11,10 @@
 
 ### Problem
 - *J.P. Morgan seeks to analyze account performance metrics and sales trends for 2017-2021.*
+
+### *Business Questions:*
+- Identify top and bottom-performing accounts.
+- Examine year-over-year sales growth.
+- Compare unit sales across account types.
+- Determine the year with the highest sales volume.
+- Analyze 2020 and 2021 sales by account name.
