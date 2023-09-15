@@ -8,3 +8,6 @@
 
 ## ***INTRODUCTION*** 
 *The JPMorgan Chase & Co. Excel Skills program focused on developing Microsoft Excel expertise by tackling real-world challenges similar to those faced by JPMorgan employees.*
+
+### Problem
+- *J.P. Morgan seeks to analyze account performance metrics and sales trends for 2017-2021.*
